@@ -6,7 +6,7 @@
 | :--- | :--- |
 | Nama | Rifqi Muhammad Harahap |
 | Kelas | TK-46-GAB |
-| NIM | [1103223138] |
+| NIM | 1103223138 |
 
 ---
 
