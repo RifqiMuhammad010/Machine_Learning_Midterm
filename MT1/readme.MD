@@ -1,7 +1,7 @@
 # UTS Machine Learning - Fraud Detection
 
 ## Data Diri
-
+| Kategori | Detail |
 | :--- | :--- |
 | Nama | Rifqi Muhammad Harahap |
 | Kelas | TK-46-GAB |
