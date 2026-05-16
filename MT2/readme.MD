@@ -45,9 +45,9 @@ Model K-Means final dieksekusi menggunakan konfigurasi $K=3$ dengan inisialisasi
 
 | ID Klaster | Jumlah Nasabah | Persentase Proporsi (%) |
 | :---: | :---: | :---: |
-| **0** | [Isi Jumlah Akhir Klaster 0] | [Isi % Klaster 0] |
-| **1** | [Isi Jumlah Akhir Klaster 1] | [Isi % Klaster 1] |
-| **2** | [Isi Jumlah Akhir Klaster 2] | [Isi % Klaster 2] |
+| **0** | 4.070 | 45.45% |
+| **1** | 1.072 | 11.97% |
+| **2** | 3.812 | 42.57% |
 
 ## 9. Profiling & Interpretasi Klaster
 Analisis karakteristik perilaku nasabah dilakukan dengan menelaah rata-rata nilai riil dari tiap klaster menggunakan visualisasi tabel ter-transpose dengan aksen gradasi warna (*heatmap style*). 
