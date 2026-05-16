@@ -2,7 +2,6 @@
 
 ## Data Diri
 
-| Kategori | Detail |
 | :--- | :--- |
 | Nama | Rifqi Muhammad Harahap |
 | Kelas | TK-46-GAB |
