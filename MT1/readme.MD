@@ -4,9 +4,9 @@
 
 | Kategori | Detail |
 | :--- | :--- |
-| Nama | Rifqi |
-| Kelas | [Isi Kelasmu di sini, misal: TK-46-GAB] |
-| NIM | [Isi NIM-mu di sini] |
+| Nama | Rifqi Muhammad Harahap |
+| Kelas | TK-46-GAB] |
+| NIM | [1103223138] |
 
 ---
 
